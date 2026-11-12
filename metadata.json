@@ -1,0 +1,6 @@
+{
+  "name": "DubIoT · Monitoreo en vivo",
+  "description": "Tablero demo de monitoreo IoT en vivo para mantenimiento de hoteles y edificios con alertas por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
